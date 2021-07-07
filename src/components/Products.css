@@ -1,0 +1,13 @@
+
+
+.card {
+  box-shadow: 2px 2px 15px black !important;
+  margin-top: 15px;
+} 
+
+
+
+
+.prduct_rating {
+  display: flex;
+}
